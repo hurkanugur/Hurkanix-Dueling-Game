@@ -1,0 +1,92 @@
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\B E W I T C H E D\Ölümcül Oyun\bin\Debug\H U R K A N I X.exe.config
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\B E W I T C H E D\Ölümcül Oyun\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\B E W I T C H E D\Ölümcül Oyun\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\B E W I T C H E D\Ölümcül Oyun\obj\x86\Debug\H U R K A N I X.csproj.ResolveComReference.cache
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\B E W I T C H E D\Ölümcül Oyun\bin\Debug\H U R K A N I X.exe
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\B E W I T C H E D\Ölümcül Oyun\bin\Debug\H U R K A N I X.pdb
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\B E W I T C H E D\Ölümcül Oyun\bin\Debug\Interop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\B E W I T C H E D\Ölümcül Oyun\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\B E W I T C H E D\Ölümcül Oyun\obj\x86\Debug\H U R K A N I X.csprojResolveAssemblyReference.cache
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\B E W I T C H E D\Ölümcül Oyun\obj\x86\Debug\H_U_R_K_A_N_I_X.GameLoading.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\B E W I T C H E D\Ölümcül Oyun\obj\x86\Debug\H_U_R_K_A_N_I_X.GameMenu.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\B E W I T C H E D\Ölümcül Oyun\obj\x86\Debug\H_U_R_K_A_N_I_X.GameMode1.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\B E W I T C H E D\Ölümcül Oyun\obj\x86\Debug\H_U_R_K_A_N_I_X.GameMode2.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\B E W I T C H E D\Ölümcül Oyun\obj\x86\Debug\H_U_R_K_A_N_I_X.GameMode3.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\B E W I T C H E D\Ölümcül Oyun\obj\x86\Debug\H_U_R_K_A_N_I_X.GameOver.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\B E W I T C H E D\Ölümcül Oyun\obj\x86\Debug\H_U_R_K_A_N_I_X.GameHelp.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\B E W I T C H E D\Ölümcül Oyun\obj\x86\Debug\H_U_R_K_A_N_I_X.Properties.Resources.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\B E W I T C H E D\Ölümcül Oyun\obj\x86\Debug\H U R K A N I X.csproj.GenerateResource.Cache
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\B E W I T C H E D\Ölümcül Oyun\obj\x86\Debug\H U R K A N I X.exe
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\B E W I T C H E D\Ölümcül Oyun\obj\x86\Debug\H U R K A N I X.pdb
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\Ölümcül Oyun\bin\Debug\H U R K A N I X.exe.config
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\Ölümcül Oyun\bin\Debug\H U R K A N I X.exe
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\Ölümcül Oyun\bin\Debug\H U R K A N I X.pdb
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\Ölümcül Oyun\bin\Debug\Interop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\Ölümcül Oyun\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\Ölümcül Oyun\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\Ölümcül Oyun\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\Ölümcül Oyun\obj\x86\Debug\H U R K A N I X.csproj.ResolveComReference.cache
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\Ölümcül Oyun\obj\x86\Debug\H_U_R_K_A_N_I_X.GameLoading.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\Ölümcül Oyun\obj\x86\Debug\H_U_R_K_A_N_I_X.GameMenu.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\Ölümcül Oyun\obj\x86\Debug\H_U_R_K_A_N_I_X.GameMode1.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\Ölümcül Oyun\obj\x86\Debug\H_U_R_K_A_N_I_X.GameMode2.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\Ölümcül Oyun\obj\x86\Debug\H_U_R_K_A_N_I_X.GameMode3.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\Ölümcül Oyun\obj\x86\Debug\H_U_R_K_A_N_I_X.GameOver.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\Ölümcül Oyun\obj\x86\Debug\H_U_R_K_A_N_I_X.GameHelp.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\Ölümcül Oyun\obj\x86\Debug\H_U_R_K_A_N_I_X.Properties.Resources.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\Ölümcül Oyun\obj\x86\Debug\H U R K A N I X.csproj.GenerateResource.Cache
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\Ölümcül Oyun\obj\x86\Debug\H U R K A N I X.exe
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\Ölümcül Oyun\obj\x86\Debug\H U R K A N I X.pdb
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\Ölümcül Oyun\obj\x86\Debug\H U R K A N I X.csprojResolveAssemblyReference.cache
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\H U R K A N I X\bin\Debug\H U R K A N I X.exe.config
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\H U R K A N I X\bin\Debug\H U R K A N I X.exe
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\H U R K A N I X\bin\Debug\H U R K A N I X.pdb
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\H U R K A N I X\bin\Debug\Interop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\H U R K A N I X\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H U R K A N I X.csproj.ResolveComReference.cache
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H_U_R_K_A_N_I_X.GameLoading.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H_U_R_K_A_N_I_X.GameMenu.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H_U_R_K_A_N_I_X.GameMode1.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H_U_R_K_A_N_I_X.GameMode2.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H_U_R_K_A_N_I_X.GameMode3.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H_U_R_K_A_N_I_X.GameOver.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H_U_R_K_A_N_I_X.GameHelp.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H_U_R_K_A_N_I_X.Properties.Resources.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H U R K A N I X.csproj.GenerateResource.Cache
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H U R K A N I X.exe
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H U R K A N I X.pdb
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H U R K A N I X.csprojResolveAssemblyReference.cache
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\H U R K A N I X\H U R K A N I X\bin\Debug\H U R K A N I X.exe.config
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H U R K A N I X.csproj.ResolveComReference.cache
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H U R K A N I X.exe
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H U R K A N I X.pdb
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\bin\Debug\H U R K A N I X.exe.config
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H U R K A N I X.csproj.ResolveComReference.cache
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H U R K A N I X.exe
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H U R K A N I X.pdb
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\bin\Debug\H U R K A N I X.exe.config
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\Interop.WMPLib.dll
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H U R K A N I X.csproj.ResolveComReference.cache
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H U R K A N I X.exe
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H U R K A N I X.pdb
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\bin\Debug\H U R K A N I X.exe
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\bin\Debug\H U R K A N I X.pdb
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\bin\Debug\Interop.WMPLib.dll
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\bin\Debug\AxInterop.WMPLib.dll
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H U R K A N I X.csprojResolveAssemblyReference.cache
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H_U_R_K_A_N_I_X.GameLoading.resources
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H_U_R_K_A_N_I_X.GameMenu.resources
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H_U_R_K_A_N_I_X.GameMode1.resources
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H_U_R_K_A_N_I_X.GameMode2.resources
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H_U_R_K_A_N_I_X.GameMode3.resources
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H_U_R_K_A_N_I_X.GameOver.resources
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H_U_R_K_A_N_I_X.GameHelp.resources
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H_U_R_K_A_N_I_X.Properties.Resources.resources
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\H U R K A N I X\H U R K A N I X\obj\x86\Debug\H U R K A N I X.csproj.GenerateResource.Cache
