@@ -1,0 +1,2 @@
+# Hurkanix-Dueling-Game
+Hurkanix is a magical dueling game that can be played against both Artificial Intelligence and another player.
